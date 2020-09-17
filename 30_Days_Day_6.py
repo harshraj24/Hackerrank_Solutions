@@ -1,4 +1,4 @@
-# Hackerrank 30 days challenge day 5 Solution
+# Hackerrank 30 days challenge day 6 Solution
 
 # Given a string, , of length  that is indexed from  to , print its even-indexed and odd-indexed characters as  space-separated strings on a single line (see the Sample below for more detail).
 

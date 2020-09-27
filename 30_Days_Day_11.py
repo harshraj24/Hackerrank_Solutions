@@ -1,5 +1,7 @@
 # Calculate the hourglass sum for every hourglass in , then print the maximum hourglass sum.
 
+#Solution
+
 #!/bin/python3
 
 import math

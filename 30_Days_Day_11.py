@@ -1,5 +1,5 @@
 # Calculate the hourglass sum for every hourglass in , then print the maximum hourglass sum.
-
+#hourglass sum of 6x6 array
 #Solution
 
 #!/bin/python3

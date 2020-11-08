@@ -1,5 +1,14 @@
+struct node{
+    int data;
+    struct node *next;
+};
+
 void main()
 {
-    cout<<"Hello World!";
-    return 0;
+    struct node newnode;
+    int x;
+    scanf("%d",&x);
+    newnode->data=x;
+    newnode->next=NULL;
+
 }
